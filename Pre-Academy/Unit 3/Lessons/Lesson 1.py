@@ -1,4 +1,4 @@
-'''
+
 # Adding two numbers
 
 num1 = float(input("Enter the first number: "))
@@ -14,8 +14,6 @@ print(f"The answer is {num1 + num2}")
 # bool : Boolean/True or False
 
 # Type casting - Changing one data type to another
-
-'''
 
 # Calculating a tip
 

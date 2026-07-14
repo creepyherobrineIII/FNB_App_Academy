@@ -1,5 +1,4 @@
 # A countdown using a while loop
-''' 
 count = 5
 
 while count > 0:
@@ -12,7 +11,6 @@ print("Blast Off!!")
 
 for rep in range(1, 4):
     print(f"This is rep no.{rep}")
-'''
 
 # A guessing game
 
