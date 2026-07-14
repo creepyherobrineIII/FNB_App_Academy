@@ -5,7 +5,7 @@ bio = input("Enter a short description of yourself: ").strip()
 
 # Manipulating strings
 editedBio = bio.replace("I am", "I'm")
-full_name = first_name + last_name
+full_name = f"{first_name} {last_name}"
 # Username creation
 username = first_name[0].lower() + last_name.lower()
 
